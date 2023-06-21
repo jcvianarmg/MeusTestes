@@ -1,0 +1,15 @@
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\MyClassesTest.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\MyClassesTest.pdb
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\obj\Debug\MyClassesTest.csproj.AssemblyReference.cache
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\obj\Debug\MyClassesTest.csproj.CoreCompileInputs.cache
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\obj\Debug\MyClassesTest.csproj.CopyComplete
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\obj\Debug\MyClassesTest.dll
+C:\Users\jcvia\source\repos\MeusTestes\MyClassesTest\obj\Debug\MyClassesTest.pdb
