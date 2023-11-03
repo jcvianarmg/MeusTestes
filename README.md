@@ -1,2 +1,2 @@
 # MeusTestes
-Exercitando os conhecimentos para não ficar esquecer 
+Exercitando os conhecimentos
